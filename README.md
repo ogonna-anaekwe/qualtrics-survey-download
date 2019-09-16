@@ -14,6 +14,6 @@ const qualtricsAPIToken = process.env.qualtricsAPIToken;
 
 Then run the following commands:
 ```
-npm init
+npm install
 npm start
 ```
